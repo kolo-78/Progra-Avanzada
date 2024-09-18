@@ -1,0 +1,30 @@
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\BE\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\BE\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\BE\obj\Debug\BE.dll
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\BE\obj\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\BE\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\BE\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\BE\obj\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\BE\obj\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\BE\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\BE\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\BE\bin\Debug\Abstraccion.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\BE\bin\Debug\Abstraccion.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\BE\obj\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\BE\obj\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\BE\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\BE\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\BE\bin\Debug\Abstraccion.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\BE\bin\Debug\Abstraccion.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\BE\obj\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\BE\obj\Debug\BE.pdb

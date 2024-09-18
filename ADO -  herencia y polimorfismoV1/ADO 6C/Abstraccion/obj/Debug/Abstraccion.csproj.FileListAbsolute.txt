@@ -1,0 +1,6 @@
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Abstraccion\bin\Debug\Abstraccion.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Abstraccion\obj\Debug\Abstraccion.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Abstraccion\obj\Debug\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Abstraccion\obj\Debug\Abstraccion.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Abstraccion\obj\Debug\Abstraccion.pdb

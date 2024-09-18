@@ -1,0 +1,54 @@
+D:\codigo\LUG\2021\DataReader\Solution1\Negocio\bin\Debug\Negocio.dll
+D:\codigo\LUG\2021\DataReader\Solution1\Negocio\bin\Debug\Negocio.pdb
+D:\codigo\LUG\2021\DataReader\Solution1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\codigo\LUG\2021\DataReader\Solution1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\codigo\LUG\2021\DataReader\Solution1\Negocio\obj\Debug\Negocio.dll
+D:\codigo\LUG\2021\DataReader\Solution1\Negocio\obj\Debug\Negocio.pdb
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.dll
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.pdb
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Negocio\bin\Debug\Negocio.dll
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Negocio\bin\Debug\Negocio.pdb
+D:\codigo\LUG\2021\02_ADO_Generico_3_Capas\Solution1\Negocio\bin\Debug\Negocio.dll
+D:\codigo\LUG\2021\02_ADO_Generico_3_Capas\Solution1\Negocio\bin\Debug\Negocio.pdb
+D:\codigo\LUG\2021\02_ADO_Generico_3_Capas\Solution1\Negocio\bin\Debug\DAL.dll
+D:\codigo\LUG\2021\02_ADO_Generico_3_Capas\Solution1\Negocio\bin\Debug\DAL.pdb
+D:\codigo\LUG\2021\02_ADO_Generico_3_Capas\Solution1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\codigo\LUG\2021\02_ADO_Generico_3_Capas\Solution1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\codigo\LUG\2021\02_ADO_Generico_3_Capas\Solution1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\codigo\LUG\2021\02_ADO_Generico_3_Capas\Solution1\Negocio\obj\Debug\Negocio.dll
+D:\codigo\LUG\2021\02_ADO_Generico_3_Capas\Solution1\Negocio\obj\Debug\Negocio.pdb
+D:\codigo\LUG\2021\02_ADO_Generico_4_Capas\Solution1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\codigo\LUG\2021\02_ADO_Generico_4_Capas\Solution1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\codigo\LUG\2021\02_ADO_Generico_4_Capas\Solution1\Negocio\obj\Debug\Negocio.dll
+D:\codigo\LUG\2021\02_ADO_Generico_4_Capas\Solution1\Negocio\obj\Debug\Negocio.pdb
+D:\codigo\LUG\2021\02_ADO_Generico_4_Capas\Solution1\Negocio\bin\Debug\Negocio.dll
+D:\codigo\LUG\2021\02_ADO_Generico_4_Capas\Solution1\Negocio\bin\Debug\Negocio.pdb
+D:\codigo\LUG\2021\02_ADO_Generico_4_Capas\Solution1\Negocio\bin\Debug\BE.dll
+D:\codigo\LUG\2021\02_ADO_Generico_4_Capas\Solution1\Negocio\bin\Debug\DAL.dll
+D:\codigo\LUG\2021\02_ADO_Generico_4_Capas\Solution1\Negocio\bin\Debug\BE.pdb
+D:\codigo\LUG\2021\02_ADO_Generico_4_Capas\Solution1\Negocio\bin\Debug\DAL.pdb
+D:\codigo\LUG\2021\02_ADO_Generico_4_Capas\Solution1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\02_ADO_Generico_4_Capas_null\Solution1\Negocio\bin\Debug\Negocio.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\02_ADO_Generico_4_Capas_null\Solution1\Negocio\bin\Debug\Negocio.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\02_ADO_Generico_4_Capas_null\Solution1\Negocio\bin\Debug\BE.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\02_ADO_Generico_4_Capas_null\Solution1\Negocio\bin\Debug\DAL.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\02_ADO_Generico_4_Capas_null\Solution1\Negocio\bin\Debug\BE.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\02_ADO_Generico_4_Capas_null\Solution1\Negocio\bin\Debug\DAL.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\02_ADO_Generico_4_Capas_null\Solution1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\02_ADO_Generico_4_Capas_null\Solution1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\02_ADO_Generico_4_Capas_null\Solution1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\02_ADO_Generico_4_Capas_null\Solution1\Negocio\obj\Debug\Negocio.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\02_ADO_Generico_4_Capas_null\Solution1\Negocio\obj\Debug\Negocio.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas_null\Solution1\Negocio\bin\Debug\Negocio.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas_null\Solution1\Negocio\bin\Debug\Negocio.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas_null\Solution1\Negocio\bin\Debug\BE.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas_null\Solution1\Negocio\bin\Debug\DAL.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas_null\Solution1\Negocio\bin\Debug\BE.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas_null\Solution1\Negocio\bin\Debug\DAL.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas_null\Solution1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas_null\Solution1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas_null\Solution1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas_null\Solution1\Negocio\obj\Debug\Negocio.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas_null\Solution1\Negocio\obj\Debug\Negocio.pdb

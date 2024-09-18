@@ -1,0 +1,146 @@
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_1C\Presentacion_IU\bin\Debug\Presentacion_IU.exe.config
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_1C\Presentacion_IU\bin\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_1C\Presentacion_IU\bin\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_1C\Presentacion_IU\obj\Debug\Presentacion_IU.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_1C\Presentacion_IU\obj\Debug\Presentacion_IU.FrmEquipo.resources
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_1C\Presentacion_IU\obj\Debug\Presentacion_IU.Menu.resources
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_1C\Presentacion_IU\obj\Debug\Presentacion_IU.Properties.Resources.resources
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_1C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.GenerateResource.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_1C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_1C\Presentacion_IU\obj\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_1C\Presentacion_IU\obj\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\bin\Debug\Presentacion_IU.exe.config
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\bin\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\bin\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\obj\Debug\Presentacion_IU.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\obj\Debug\Presentacion_IU.FrmEquipo.resources
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\obj\Debug\Presentacion_IU.Menu.resources
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\obj\Debug\Presentacion_IU.Properties.Resources.resources
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.GenerateResource.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\obj\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\obj\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\bin\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\bin\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CopyComplete
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\bin\Debug\Presentacion_IU.exe.config
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\bin\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\bin\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\bin\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\bin\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.FrmEquipo.resources
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.Menu.resources
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.Properties.Resources.resources
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.GenerateResource.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CopyComplete
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\bin\Debug\Presentacion_IU.exe.config
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\bin\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\bin\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\bin\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\bin\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.FrmEquipo.resources
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.Menu.resources
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.Properties.Resources.resources
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.GenerateResource.cache
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CopyComplete
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Presentacion_IU\obj\Debug\Presentacion_IU.Menu2.resources
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\Presentacion_IU.exe.config
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\Abstraccion.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\MPP.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\DAL.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\Abstraccion.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\MPP.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\bin\Debug\DAL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.FrmEquipo.resources
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.Menu.resources
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.Properties.Resources.resources
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.GenerateResource.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CopyComplete
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\Presentacion_IU.exe.config
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\Abstraccion.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\MPP.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\DAL.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\Abstraccion.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\MPP.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\bin\Debug\DAL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.FrmEquipo.resources
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.Menu.resources
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.Properties.Resources.resources
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.GenerateResource.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CopyComplete
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Presentacion_IU.exe.config
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Presentacion_IU.exe
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Presentacion_IU.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\BE.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Negocio_BLL.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Abstraccion.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\MPP.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\DAL.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\BE.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Negocio_BLL.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Abstraccion.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\MPP.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\DAL.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.FrmEquipo.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.Menu.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.Properties.Resources.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.GenerateResource.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CopyComplete
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.exe
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Presentacion_IU.exe.config
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Presentacion_IU.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Abstraccion.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\MPP.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\DAL.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\Abstraccion.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\MPP.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\bin\Debug\DAL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.FrmEquipo.resources
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.Menu.resources
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.Properties.Resources.resources
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.GenerateResource.cache
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.csproj.CopyComplete
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.exe
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Presentacion_IU\obj\Debug\Presentacion_IU.pdb

@@ -1,0 +1,11 @@
+C:\Users\pablo\source\repos\CRUDWindowsFORM\bin\Debug\CRUDWindowsFORM.exe.config
+C:\Users\pablo\source\repos\CRUDWindowsFORM\bin\Debug\CRUDWindowsFORM.exe
+C:\Users\pablo\source\repos\CRUDWindowsFORM\bin\Debug\CRUDWindowsFORM.pdb
+C:\Users\pablo\source\repos\CRUDWindowsFORM\obj\Debug\CRUDWindowsFORM.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\CRUDWindowsFORM\obj\Debug\CRUDWindowsFORM.Form1.resources
+C:\Users\pablo\source\repos\CRUDWindowsFORM\obj\Debug\CRUDWindowsFORM.Properties.Resources.resources
+C:\Users\pablo\source\repos\CRUDWindowsFORM\obj\Debug\CRUDWindowsFORM.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\CRUDWindowsFORM\obj\Debug\CRUDWindowsFORM.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\CRUDWindowsFORM\obj\Debug\CRUDWindowsFORM.exe
+C:\Users\pablo\source\repos\CRUDWindowsFORM\obj\Debug\CRUDWindowsFORM.pdb
+C:\Users\pablo\source\repos\CRUDWindowsFORM\obj\Debug\CRUDWindowsFORM.FrmNuevo.resources

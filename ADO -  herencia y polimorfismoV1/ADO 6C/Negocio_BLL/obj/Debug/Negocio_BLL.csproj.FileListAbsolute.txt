@@ -1,0 +1,84 @@
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Negocio_BLL\bin\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Negocio_BLL\bin\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Negocio_BLL\obj\Debug\Negocio_BLL.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Negocio_BLL\obj\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_2C\Negocio_BLL\obj\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Negocio_BLL\bin\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Negocio_BLL\bin\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Negocio_BLL\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Negocio_BLL\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Negocio_BLL\obj\Debug\Negocio_BLL.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CopyComplete
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Negocio_BLL\obj\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\Arquitecturav2\Arquitecturav2_3C\Negocio_BLL\obj\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Negocio_BLL\bin\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Negocio_BLL\bin\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Negocio_BLL\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Negocio_BLL\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Negocio_BLL\obj\Debug\Negocio_BLL.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CopyComplete
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Negocio_BLL\obj\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\LUG\Arquitectura\Arquitectura- herencia y polimorfismo\Arquitecturav2_3C\Negocio_BLL\obj\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\bin\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\bin\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\bin\Debug\Abstraccion.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\bin\Debug\MPP.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\bin\Debug\DAL.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\bin\Debug\Abstraccion.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\bin\Debug\MPP.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\bin\Debug\DAL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CopyComplete
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\bin\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\bin\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\bin\Debug\Abstraccion.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\bin\Debug\MPP.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\bin\Debug\DAL.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\bin\Debug\Abstraccion.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\bin\Debug\MPP.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\bin\Debug\DAL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CopyComplete
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismoV2\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\Negocio_BLL.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\Negocio_BLL.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\Abstraccion.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\BE.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\MPP.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\DAL.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\Abstraccion.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\BE.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\MPP.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\DAL.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CopyComplete
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\Negocio_BLL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\Abstraccion.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\BE.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\MPP.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\DAL.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\Abstraccion.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\BE.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\MPP.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\bin\Debug\DAL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.csproj.CopyComplete
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.dll
+C:\Users\prinzom\Desktop\LUG\ADO -  herencia y polimorfismoV1\ADO 6C\Negocio_BLL\obj\Debug\Negocio_BLL.pdb

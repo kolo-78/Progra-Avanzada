@@ -1,0 +1,12 @@
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\BE\bin\Debug\BE.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\BE\bin\Debug\BE.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\BE\obj\Debug\BE.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\BE\obj\Debug\BE.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\BE\bin\Debug\BE.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\BE\bin\Debug\BE.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\BE\obj\Debug\BE.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\BE\obj\Debug\BE.pdb

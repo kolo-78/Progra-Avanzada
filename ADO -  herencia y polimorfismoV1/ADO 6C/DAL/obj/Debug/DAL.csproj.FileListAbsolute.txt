@@ -1,0 +1,12 @@
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\DAL\bin\Debug\DAL.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\DAL\bin\Debug\DAL.pdb
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\DAL\obj\Debug\DAL.dll
+C:\Users\prinzom\Desktop\LUG\ADO\ADO -  herencia y polimorfismo\ADO 6C\DAL\obj\Debug\DAL.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\DAL\bin\Debug\DAL.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\DAL\bin\Debug\DAL.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\DAL\obj\Debug\DAL.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\ADO -  herencia y polimorfismoV1\ADO 6C\DAL\obj\Debug\DAL.pdb

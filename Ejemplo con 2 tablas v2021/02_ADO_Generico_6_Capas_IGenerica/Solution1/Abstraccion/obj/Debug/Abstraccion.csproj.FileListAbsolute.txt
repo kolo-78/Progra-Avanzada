@@ -1,0 +1,6 @@
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_6_Capas_IGenerica\Solution1\Abstraccion\bin\Debug\Abstraccion.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_6_Capas_IGenerica\Solution1\Abstraccion\bin\Debug\Abstraccion.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_6_Capas_IGenerica\Solution1\Abstraccion\obj\Debug\Abstraccion.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_6_Capas_IGenerica\Solution1\Abstraccion\obj\Debug\Abstraccion.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_6_Capas_IGenerica\Solution1\Abstraccion\obj\Debug\Abstraccion.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_6_Capas_IGenerica\Solution1\Abstraccion\obj\Debug\Abstraccion.pdb

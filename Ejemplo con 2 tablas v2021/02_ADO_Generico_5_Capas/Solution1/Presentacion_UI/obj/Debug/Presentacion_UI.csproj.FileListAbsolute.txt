@@ -1,0 +1,117 @@
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csprojAssemblyReference.cache
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frAlumno.resources
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Menu.resources
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Properties.Resources.resources
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.GenerateResource.cache
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CoreCompileInputs.cache
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe.config
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.pdb
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\bin\Debug\Negocio.dll
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\bin\Debug\Negocio.pdb
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CopyComplete
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.exe
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.pdb
+D:\codigo\LUG\2021\DataReader\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.FrLocalidad.resources
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csprojAssemblyReference.cache
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frAlumno.resources
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frLocalidad.resources
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Menu.resources
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Properties.Resources.resources
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.GenerateResource.cache
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CoreCompileInputs.cache
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.exe
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.pdb
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe.config
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.pdb
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Negocio.dll
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Negocio.pdb
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CopyComplete
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe.config
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.pdb
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Negocio.dll
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Negocio.pdb
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frAlumno.resources
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frLocalidad.resources
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Menu.resources
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Properties.Resources.resources
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.GenerateResource.cache
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CopyComplete
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.exe
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frAlumno.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frLocalidad.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Menu.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Properties.Resources.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.GenerateResource.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.exe
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe.config
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Negocio.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\bin\Debug\Negocio.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CopyComplete
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frAlumno.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frLocalidad.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Menu.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Properties.Resources.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.GenerateResource.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.exe
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe.config
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\bin\Debug\Negocio.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\bin\Debug\DAL.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\bin\Debug\Negocio.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\bin\Debug\DAL.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_3_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CopyComplete
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frAlumno.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frLocalidad.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Menu.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Properties.Resources.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.GenerateResource.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.exe
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe.config
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\bin\Debug\BE.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\bin\Debug\Negocio.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\bin\Debug\DAL.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\bin\Debug\BE.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\bin\Debug\Negocio.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\bin\Debug\DAL.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_4_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CopyComplete
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe.config
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.exe
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\bin\Debug\Presentacion_UI.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\bin\Debug\BE.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\bin\Debug\Negocio.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\bin\Debug\MPP.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\bin\Debug\DAL.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\bin\Debug\BE.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\bin\Debug\Negocio.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\bin\Debug\MPP.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\bin\Debug\DAL.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frAlumno.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.frLocalidad.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Menu.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.Properties.Resources.resources
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.GenerateResource.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CopyComplete
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.exe
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico_5_Capas\Solution1\Presentacion_UI\obj\Debug\Presentacion_UI.pdb

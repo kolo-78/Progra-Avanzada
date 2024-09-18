@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo\\psync\\DevProjects2024\\Progra Avanzada\\Ejemplo con 2 tablas v2021\\01_DataReader\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4B2BB2-FC2F-42BF-AC7E-3BC4C7FB99E9}|Presentacion_UI\\Presentacion_UI.csproj|c:\\users\\pablo\\psync\\devprojects2024\\progra avanzada\\ejemplo con 2 tablas v2021\\01_datareader\\solution1\\presentacion_ui\\fralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB4B2BB2-FC2F-42BF-AC7E-3BC4C7FB99E9}|Presentacion_UI\\Presentacion_UI.csproj|solutionrelative:presentacion_ui\\fralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4B2BB2-FC2F-42BF-AC7E-3BC4C7FB99E9}|Presentacion_UI\\Presentacion_UI.csproj|c:\\users\\pablo\\psync\\devprojects2024\\progra avanzada\\ejemplo con 2 tablas v2021\\01_datareader\\solution1\\presentacion_ui\\frlocalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB4B2BB2-FC2F-42BF-AC7E-3BC4C7FB99E9}|Presentacion_UI\\Presentacion_UI.csproj|solutionrelative:presentacion_ui\\frlocalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4B2BB2-FC2F-42BF-AC7E-3BC4C7FB99E9}|Presentacion_UI\\Presentacion_UI.csproj|c:\\users\\pablo\\psync\\devprojects2024\\progra avanzada\\ejemplo con 2 tablas v2021\\01_datareader\\solution1\\presentacion_ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB4B2BB2-FC2F-42BF-AC7E-3BC4C7FB99E9}|Presentacion_UI\\Presentacion_UI.csproj|solutionrelative:presentacion_ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frAlumno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pablo\\psync\\DevProjects2024\\Progra Avanzada\\Ejemplo con 2 tablas v2021\\01_DataReader\\Solution1\\Presentacion_UI\\frAlumno.cs",
+              "RelativeDocumentMoniker": "Presentacion_UI\\frAlumno.cs",
+              "ToolTip": "C:\\Users\\pablo\\psync\\DevProjects2024\\Progra Avanzada\\Ejemplo con 2 tablas v2021\\01_DataReader\\Solution1\\Presentacion_UI\\frAlumno.cs [Design]",
+              "RelativeToolTip": "Presentacion_UI\\frAlumno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:21:24.806Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frLocalidad.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pablo\\psync\\DevProjects2024\\Progra Avanzada\\Ejemplo con 2 tablas v2021\\01_DataReader\\Solution1\\Presentacion_UI\\frLocalidad.cs",
+              "RelativeDocumentMoniker": "Presentacion_UI\\frLocalidad.cs",
+              "ToolTip": "C:\\Users\\pablo\\psync\\DevProjects2024\\Progra Avanzada\\Ejemplo con 2 tablas v2021\\01_DataReader\\Solution1\\Presentacion_UI\\frLocalidad.cs [Design]",
+              "RelativeToolTip": "Presentacion_UI\\frLocalidad.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:21:22.366Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pablo\\psync\\DevProjects2024\\Progra Avanzada\\Ejemplo con 2 tablas v2021\\01_DataReader\\Solution1\\Presentacion_UI\\Menu.cs",
+              "RelativeDocumentMoniker": "Presentacion_UI\\Menu.cs",
+              "ToolTip": "C:\\Users\\pablo\\psync\\DevProjects2024\\Progra Avanzada\\Ejemplo con 2 tablas v2021\\01_DataReader\\Solution1\\Presentacion_UI\\Menu.cs [Design]",
+              "RelativeToolTip": "Presentacion_UI\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:21:19.866Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+D:\codigo\LUG\2021\DataReader\Solution1\Negocio\bin\Debug\Negocio.dll
+D:\codigo\LUG\2021\DataReader\Solution1\Negocio\bin\Debug\Negocio.pdb
+D:\codigo\LUG\2021\DataReader\Solution1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\codigo\LUG\2021\DataReader\Solution1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\codigo\LUG\2021\DataReader\Solution1\Negocio\obj\Debug\Negocio.dll
+D:\codigo\LUG\2021\DataReader\Solution1\Negocio\obj\Debug\Negocio.pdb
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.dll
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.pdb
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Negocio\bin\Debug\Negocio.dll
+D:\codigo\LUG\2021\02_ADO_Generico\Solution1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Negocio\bin\Debug\Negocio.dll
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.dll
+C:\Users\prinzom\Desktop\Clases\LUG Ultra\CLASE 5 - ADO\Codigo fuente\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Negocio\bin\Debug\Negocio.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Negocio\bin\Debug\Negocio.pdb
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.dll
+D:\facu\03 -  LUG Presencial\2020\LUG Ultra\CLASE 4 - ADO\Codigo fuente\Ejemplo con 2 tablas v2021\02_ADO_Generico\Solution1\Negocio\obj\Debug\Negocio.pdb
